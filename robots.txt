@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooneewaik.ryanfrench.me/sitemap.xml
